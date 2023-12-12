@@ -1,6 +1,6 @@
 README.md
 
-# 1wc0n/gc0de.js
+# 1wc0n
 
 Author: 0xPb
 
