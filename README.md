@@ -6,7 +6,7 @@ Author: 0xPb
 
 hidden hint in between the lines of code
 
-Design doc:
+Have Fun:
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 # Solution (PRIVATE)
